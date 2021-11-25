@@ -10,7 +10,7 @@ All the other csv files are the intermediate files generated from R or NEO4j req
 
 For the Enrichment_Protocol :
 
-The The R script is where the whole protocol is written.
+The R script is where the whole protocol is written.
 
 The csv scripts are the various enrichment matrices calculated from the R packages included in our database. 
 
